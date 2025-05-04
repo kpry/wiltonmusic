@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/xsl" href="/main-sitemap.xsl"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom">
+	<Document>
+		<name>Locations for Wilton Academy of Music</name>
+		<open>1</open>
+		<Folder>
+			<atom:link href="/" />
+			<Placemark>
+				<name><![CDATA[Wilton Academy of Music]]></name>
+				<description><![CDATA[Wilton Academy of Music - Saskatoon music school offering classes + lessons to all ages beginning at birth.]]></description>
+				<address><![CDATA[816 Spadina Cres E, Saskatoon, Saskatchewan, S7K 3H4, CA]]></address>
+				<phoneNumber><![CDATA[]]></phoneNumber>
+				<atom:link href="/"/>
+				<LookAt>
+					<altitude>0</altitude>
+					<range></range>
+					<tilt>0</tilt>
+				</LookAt>
+				<Point>
+				</Point>
+			</Placemark>
+		</Folder>
+	</Document>
+</kml>
+
