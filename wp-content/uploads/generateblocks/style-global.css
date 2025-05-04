@@ -1,0 +1,1 @@
+.CTA-button{background-color:var(--green-1);color:var(--base-3);font-weight:700;border-radius:5px}.CTA-button:hover{color:var(--base-3);background-color:var(--green-2)}.scale-on-hover{transform:scale();transition:all 0.5s ease 0s}.scale-on-hover:hover{transform:scale(1.03)}.shadow{border-radius:100%}
