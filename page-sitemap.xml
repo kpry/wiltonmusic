@@ -2,7 +2,7 @@
 <urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd http://www.google.com/schemas/sitemap-image/1.1 http://www.google.com/schemas/sitemap-image/1.1/sitemap-image.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 	<url>
 		<loc>/</loc>
-		<lastmod>2025-05-04T06:05:34+00:00</lastmod>
+		<lastmod>2025-05-05T21:14:22+00:00</lastmod>
 		<image:image>
 			<image:loc>/wp-content/uploads/2025/01/Band-instruments-768x1024.jpg</image:loc>
 		</image:image>
@@ -12,6 +12,41 @@
 		<image:image>
 			<image:loc>/wp-content/uploads/2022/06/Michael-Swan-pic-1024x681.png</image:loc>
 		</image:image>
+	</url>
+	<url>
+		<loc>/private-music-lessons/</loc>
+		<lastmod>2025-05-05T21:43:54+00:00</lastmod>
+		<image:image>
+			<image:loc>/wp-content/uploads/2025/04/Nicole-aspect-ratio-500-500.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2025/04/Brette-Kristoff-aspect-ratio-500-500.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2025/04/Jeannette-pic-2-aspect-ratio-500-500.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2025/04/Alice-aspect-ratio-500-500.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2025/04/Skye-pic-1-aspect-ratio-500-500.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2025/04/Michael-Swan-pic-aspect-ratio-500-500.png</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2025/04/Isaac-Lo-pic-aspect-ratio-500-500.jpeg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2025/04/Brandon-22-aspect-ratio-500-500.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2025/04/samHeadshots_2-scaled-aspect-ratio-500-500-scaled.jpg</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc>/about/history/</loc>
+		<lastmod>2025-05-05T21:32:48+00:00</lastmod>
 	</url>
 	<url>
 		<loc>/resources/methods-terms-used-in-our-programs/</loc>
@@ -28,10 +63,6 @@
 	<url>
 		<loc>/resources/</loc>
 		<lastmod>2025-05-04T07:12:43+00:00</lastmod>
-	</url>
-	<url>
-		<loc>/about/history/</loc>
-		<lastmod>2025-05-04T07:12:14+00:00</lastmod>
 	</url>
 	<url>
 		<loc>/about/contact/</loc>
@@ -71,10 +102,6 @@
 	<url>
 		<loc>/group-music-classes/</loc>
 		<lastmod>2025-05-04T07:06:22+00:00</lastmod>
-	</url>
-	<url>
-		<loc>/private-music-lessons/</loc>
-		<lastmod>2025-05-04T06:49:38+00:00</lastmod>
 	</url>
 	<url>
 		<loc>/group-music-classes/daycare-music-programs/</loc>
